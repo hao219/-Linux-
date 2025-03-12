@@ -20,4 +20,5 @@
 License：{}
 
 参考资料：{Xia, H., Zhang, D., Liu, W., Haller, I., Sherwin, B., & Chisnall, D. (2022, May). A secret-free hypervisor: Rethinking isolation in the age of speculative vulnerabilities. In 2022 IEEE Symposium on Security and Privacy (SP) (pp. 370-385). IEEE.
+
 Behrens, J., Cao, A., Skeggs, C., Belay, A., Kaashoek, M. F., & Zeldovich, N. (2020). Efficiently mitigating transient execution attacks using the unmapped speculation contract. In 14th USENIX Symposium on Operating Systems Design and Implementation (OSDI 20) (pp. 1139-1154).}
